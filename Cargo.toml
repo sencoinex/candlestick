@@ -1,0 +1,9 @@
+[package]
+name = "candlestick"
+version = "0.1.0"
+authors = ["Hiroki Tanaka <support@sencoinex.com>"]
+license = "MIT"
+repository = "https://github.com/sencoinex/candlestick"
+edition = "2021"
+
+[dependencies]
