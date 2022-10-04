@@ -7,3 +7,4 @@ repository = "https://github.com/sencoinex/candlestick"
 edition = "2021"
 
 [dependencies]
+chrono = "0.4.22"

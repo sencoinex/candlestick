@@ -18,9 +18,9 @@ Supported interval:
 - [x] 1 hour
 - [x] 2 hours
 - [x] 4 hours
-- [ ] 1 day
-- [ ] 1 week
-- [ ] 1 month
+- [x] 1 day
+- [x] 1 week
+- [x] 1 month
 
 ## How to use
 
